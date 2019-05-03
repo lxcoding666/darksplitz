@@ -3,7 +3,7 @@ This tools is continued from Nefix, DirsPy and Xmasspy project.
 
 # Installation
 Will work fine in the debian shade operating system, like Backbox, Ubuntu or Kali linux.
-1. ```$ git clone https://github.com/koboi137/darksplitz```
+1. ```$ git clone https://github.com/lxcoding666/darksplitz```
 2. ```$ cd darksplitz/```
 3. ```$ sudo ./install.sh```
 
